@@ -1,0 +1,12 @@
+<?xml version='1.0'?>
+<project name="Cloud CMS JavaScript Samples" basedir="." default="update">
+
+    <property file="build.properties"/>
+
+    <property name="project.dir" value="."/>
+
+
+    <target name="update">
+    </target>
+
+</project>
