@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>code.cloudcms.com</title>
+    <title>Resources for Cloud CMS Developers - code.cloudcms.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Cloud CMS JavaScript Samples">
+    <meta name="description"
+          content="Resources for Cloud CMS Developers include drivers, code samples, Alpaca jQuery Forms Engine, Ratchet JavaScript MVC Framework, and a range of other developer libraries.">
     <meta name="author" content="Yong Qu;Cloud CMS">
 
     <!-- Le styles -->
@@ -49,7 +50,20 @@
     <script src="lib/thirdparty/bootstrap/js/bootstrap-collapse.js"></script>
     <script src="lib/thirdparty/bootstrap/js/bootstrap-carousel.js"></script>
     <script src="lib/thirdparty/bootstrap/js/bootstrap-typeahead.js"></script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-31688505-1']);
+        _gaq.push(['_trackPageview']);
 
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
 </head>
 
 <body>
@@ -83,33 +97,38 @@
     <div class="row-fluid">
         <div class="span12">
             <div class="row-fluid">
-                <div class="dashlet span6">
-                    <h2>Alpaca</h2>
+                <h1>Resources for Cloud CMS Developers</h1>
+            </div>
+        </div>
+    </div>
 
-                    <p>Alpaca is a client-side forms and templating engine which gives your application the ability to
-                        render
-                        elegant content entry and presentation forms with minimal development effort.
+    <div class="row-fluid">
+        <div class="span12">
+            <div class="row-fluid">
+                <div class="dashlet span6">
+                    <h2>Alpaca jQuery Forms Service</h2>
+
+                    <p>
+                        Alpaca is a client-side, cross-platform, JSON based forms and templating engine for rendering
+                        elegant content entry and presentation forms with minimal development effort,
                     </p>
 
                     <p>
-                        Designed for
-                        rendering
-                        forms based on JSON data format, Alpaca can be easily embedded into or integrated with your
-                        application
-                        no matter what platform or device you are using.
+                        It comes with comprehensive control library and support for validation, wizard, layout, templating,
+                        preview, i18n etc. Built upon jQuery library, jQuery UI and jQuery Mobile, Alpaca can be easily
+                        extended for additional form controls.
                     </p>
 
                     <p><a class="btn" href="alpaca/index.html" target='_blank'>View details &raquo;</a></p>
                 </div>
                 <div class="dashlet span6">
-                    <h2>Ratchet</h2>
+                    <h2>Ratchet JavaScript MVC Framework</h2>
 
-                    <p>Ratchet is a light-weight JavaScript MVC framework that helps you build HTML5/JavaScript based
+                    <p>Ratchet is a light-weight JavaScript MVC framework that helps you build HTML5 and JavaScript based
                         applications. It is ideal for real-time, cloud-connected applications.</p>
 
                     <p>While providing foundation features such as observables, components, templates, routes and so
-                        forth,
-                        Ratchet also defines an asynchronous rendering pipeline that manages state for the backend,
+                        forth, Ratchet also defines an asynchronous rendering pipeline that manages state for the backend,
                         stream content forward and aggregate it into HTML5.
                     </p>
 
@@ -126,7 +145,7 @@
                     <h2>JavaScript Driver</h2>
 
                     <p>Cloud CMS JavaScript driver is provided to lower the time and cost of building applications using
-                        JavaScript/HTML5, NodeJS, Appcelerator Titanium, SpiderMonkey, Rhino and other standalone
+                        JavaScript, HTML5, NodeJS, Appcelerator Titanium, SpiderMonkey, Rhino and other standalone
                         interpreters.
                     </p>
 
@@ -170,18 +189,4 @@
 <!--/.fluid-container-->
 
 </body>
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31688505-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
 </html>

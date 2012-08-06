@@ -3,6 +3,11 @@ body {
     padding-bottom: 40px;
 }
 
+h1 {
+    line-height: 1.278em;
+    margin-bottom: 0.583em;
+}
+
 .logo {
     background: url("../img/cloudcms-icon.png") no-repeat scroll 0 0 transparent;
     padding: 5px 10px 5px 30px;

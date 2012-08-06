@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://code.cloudcms.com/</loc>
+  <lastmod>2012-08-04T12:05:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/index.html</loc>
+  <lastmod>2012-08-04T12:05:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/index.html</loc>
+  <lastmod>2012-08-04T12:05:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/index.html</loc>
+  <lastmod>2012-08-04T12:05:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/javascript-samples/</loc>
+  <lastmod>2012-07-19T13:12:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/1.0.1-SNAPSHOT/index.html</loc>
+  <lastmod>2012-08-04T11:56:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/index.html</loc>
+  <lastmod>2012-07-16T02:40:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/allclasses.html</loc>
+  <lastmod>2012-07-28T12:39:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/allclasses.html</loc>
+  <lastmod>2012-06-18T05:36:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/1.0.1-SNAPSHOT/examples/mobile/mobile-examples.html</loc>
+  <lastmod>2012-08-04T11:57:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/1.0.1-SNAPSHOT/examples/forms/customer-profile/create-form.html</loc>
+  <lastmod>2012-08-04T11:57:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/1.0.1-SNAPSHOT/examples/fields/controls/text-field.html</loc>
+  <lastmod>2012-08-04T11:57:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/1.0.1-SNAPSHOT/getting-started.html</loc>
+  <lastmod>2012-08-04T11:56:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/1.0.1-SNAPSHOT/tests/index.html</loc>
+  <lastmod>2012-08-04T11:57:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/index.html</loc>
+  <lastmod>2012-07-16T02:40:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/index.html</loc>
+  <lastmod>2012-07-28T12:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/chain.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractMap.html</loc>
+  <lastmod>2012-07-28T12:39:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractNode.html</loc>
+  <lastmod>2012-07-28T12:39:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractObject.html</loc>
+  <lastmod>2012-07-28T12:39:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractPersistable.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractPlatformDataStore.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractPlatformObject.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractPlatformObjectMap.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractReportableWarehouseObject.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractSelfableACLObject.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractSelfableObject.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractWarehouseObject.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AbstractWarehouseObjectMap.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Activity.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.ActivityMap.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Application.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.ApplicationMap.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Archive.html</loc>
+  <lastmod>2012-07-28T12:39:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.ArchiveMap.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Association.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AuditRecord.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AuditRecordMap.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AuthenticationGrant.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AuthenticationGrantMap.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AuthInfo.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AutoClientMapping.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.AutoClientMappingMap.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.BillingProviderConfiguration.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.BillingProviderConfigurationMap.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.BinaryAttachment.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.BinaryAttachmentMap.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Branch.html</loc>
+  <lastmod>2012-07-28T12:39:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.BranchMap.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Chainable.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Changeset.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.ChangesetMap.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Client.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.ClientMap.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Cluster.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.ContainedDataStore.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Context.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.DataStore.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Definition.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Directory.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.DirectoryMap.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Domain.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.DomainMap.html</loc>
+  <lastmod>2012-07-28T12:39:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.DomainPrincipal.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Email.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.EmailMap.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.EmailProvider.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.EmailProviderMap.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Form.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.HasFormAssociation.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.HasTranslationAssociation.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Http.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Identity.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.IdentityMap.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Interaction.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionApplication.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionApplicationMap.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionMap.html</loc>
+  <lastmod>2012-07-28T12:39:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionNode.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionNodeMap.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionPage.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionPageMap.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionReport.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionReportEntry.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionReportEntryMap.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionReportMap.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionSession.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionSessionMap.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionUser.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.InteractionUserMap.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Job.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.JobMap.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.LogEntry.html</loc>
+  <lastmod>2012-07-28T12:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.LogEntryMap.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Node.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.NodeAttachment.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.NodeAttachmentMap.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.NodeMap.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.OAuth2Http.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Person.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Plan.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.PlanMap.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Platform.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.PlatformDataStoreMap.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.PrincipalMap.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Registrar.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.RegistrarMap.html</loc>
+  <lastmod>2012-07-28T12:39:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Registration.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.RegistrationMap.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Repository.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.RepositoryMap.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Response.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Settings.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.SettingsMap.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Stack.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.StackMap.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.SystemMetadata.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Team.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.TeamMap.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Tenant.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.TenantMap.html</loc>
+  <lastmod>2012-07-28T12:39:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Timestamp.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.TraversalResults.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Vault.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.VaultMap.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.Warehouse.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.WarehouseMap.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.WebHost.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/Gitana.WebHostMap.html</loc>
+  <lastmod>2012-07-28T12:39:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/index.html</loc>
+  <lastmod>2012-06-18T05:36:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/chain.html</loc>
+  <lastmod>2012-06-18T05:36:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.html</loc>
+  <lastmod>2012-06-18T05:36:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractMap.html</loc>
+  <lastmod>2012-06-18T05:36:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractNode.html</loc>
+  <lastmod>2012-06-18T05:36:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractObject.html</loc>
+  <lastmod>2012-06-18T05:36:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractPersistable.html</loc>
+  <lastmod>2012-06-18T05:36:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractPlatformDataStore.html</loc>
+  <lastmod>2012-06-18T05:36:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractPlatformObject.html</loc>
+  <lastmod>2012-06-18T05:36:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractPlatformObjectMap.html</loc>
+  <lastmod>2012-06-18T05:36:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractReportableWarehouseObject.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractSelfableACLObject.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractSelfableObject.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractWarehouseObject.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AbstractWarehouseObjectMap.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Activity.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.ActivityMap.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Application.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.ApplicationMap.html</loc>
+  <lastmod>2012-06-18T05:36:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Archive.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.ArchiveMap.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Association.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AuditRecord.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AuditRecordMap.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AuthenticationGrant.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AuthenticationGrantMap.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AuthInfo.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AutoClientMapping.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.AutoClientMappingMap.html</loc>
+  <lastmod>2012-06-18T05:36:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.BillingProviderConfiguration.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.BillingProviderConfigurationMap.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.BinaryAttachment.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.BinaryAttachmentMap.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Branch.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.BranchMap.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Chainable.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Changeset.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.ChangesetMap.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Client.html</loc>
+  <lastmod>2012-06-18T05:36:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.ClientMap.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Cluster.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.ContainedDataStore.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Context.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.DataStore.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Definition.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Directory.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.DirectoryMap.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Domain.html</loc>
+  <lastmod>2012-06-18T05:36:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.DomainMap.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.DomainPrincipal.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Form.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.HasFormAssociation.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.HasTranslationAssociation.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Http.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Identity.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.IdentityMap.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Interaction.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionApplication.html</loc>
+  <lastmod>2012-06-18T05:36:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionApplicationMap.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionMap.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionNode.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionNodeMap.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionPage.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionPageMap.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionReport.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionReportEntry.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionReportEntryMap.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionReportMap.html</loc>
+  <lastmod>2012-06-18T05:36:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionSession.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionSessionMap.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionUser.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.InteractionUserMap.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Job.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.JobMap.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.LogEntry.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.LogEntryMap.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Node.html</loc>
+  <lastmod>2012-06-18T05:36:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.NodeAttachment.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.NodeAttachmentMap.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.NodeMap.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.OAuth2Http.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Person.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Plan.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.PlanMap.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Platform.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.PlatformDataStoreMap.html</loc>
+  <lastmod>2012-06-18T05:36:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.PrincipalMap.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Registrar.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.RegistrarMap.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Repository.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.RepositoryMap.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Response.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Settings.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.SettingsMap.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Stack.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.StackMap.html</loc>
+  <lastmod>2012-06-18T05:36:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.SystemMetadata.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Team.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.TeamMap.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Tenant.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.TenantMap.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Timestamp.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.TraversalResults.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Vault.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.VaultMap.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.Warehouse.html</loc>
+  <lastmod>2012-06-18T05:36:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.WarehouseMap.html</loc>
+  <lastmod>2012-06-18T05:36:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.WebHost.html</loc>
+  <lastmod>2012-06-18T05:36:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/Gitana.WebHostMap.html</loc>
+  <lastmod>2012-06-18T05:36:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/1.0.1-SNAPSHOT/examples/mobile/customer-profile.html</loc>
+  <lastmod>2012-08-04T11:57:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/alpaca/1.0.1-SNAPSHOT/examples/mobile/customer-profile-view.html</loc>
+  <lastmod>2012-08-04T11:57:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/basic1/index.html</loc>
+  <lastmod>2012-07-16T02:40:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/basic2/index.html</loc>
+  <lastmod>2012-07-16T02:40:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/basic3/index.html</loc>
+  <lastmod>2012-07-16T02:40:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/basic4/index.html</loc>
+  <lastmod>2012-07-16T02:40:18+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/basic5/index.html</loc>
+  <lastmod>2012-07-16T02:40:18+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/basic6/index.html</loc>
+  <lastmod>2012-07-16T02:40:18+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/basic7/index.html</loc>
+  <lastmod>2012-07-16T02:40:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/basic8/index.html</loc>
+  <lastmod>2012-07-16T02:40:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example1/index.html</loc>
+  <lastmod>2012-07-16T02:40:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example2/index.html</loc>
+  <lastmod>2012-07-16T02:40:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example3/index.html</loc>
+  <lastmod>2012-07-16T02:40:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example4/index.html</loc>
+  <lastmod>2012-07-16T02:40:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example5/index.html</loc>
+  <lastmod>2012-07-16T02:40:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example6/index.html</loc>
+  <lastmod>2012-07-16T02:40:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example7/index.html</loc>
+  <lastmod>2012-07-16T02:40:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example8/index.html</loc>
+  <lastmod>2012-07-16T02:40:27+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example9/index.html</loc>
+  <lastmod>2012-07-16T02:40:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/ratchet/1.0.1-SNAPSHOT/examples/example10/index.html</loc>
+  <lastmod>2012-07-16T02:40:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.1-SNAPSHOT/js-doc/symbols/src/_Users_drq_dev_gitana_gitana-javascript-driver_target_gitana-javascript-driver-1.0.1-SNAPSHOT_js_gitana.js.html</loc>
+  <lastmod>2012-07-28T12:40:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://code.cloudcms.com/gitana-javascript-driver/1.0.0/js-doc/symbols/src/_Users_drq_dev_gitana_gitana-javascript-driver_target_gitana-javascript-driver-1.0.0_js_gitana.js.html</loc>
+  <lastmod>2012-06-18T05:36:48+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+</urlset>
